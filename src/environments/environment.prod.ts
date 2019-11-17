@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  WSURL: 'http://localhost:3000'
 };
