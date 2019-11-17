@@ -1,4 +1,4 @@
-# Sngular chat
+# Angular chat
 
 
 core  
